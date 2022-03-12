@@ -1,8 +1,8 @@
 # Quantifying the Impact of COVID19 on Nifty50 Using PCA
 
-Frameworks used and skills learnt: Python, PCA, Machine Learning, Statsmodel, SciPy, Quandl, CAPM
+**Frameworks used and skills learnt:** Python, PCA, Machine Learning, Statsmodel, SciPy, Quandl, CAPM
 
-Brief Overview of the project\
+**Brief Overview of the project**\
 • The framework of the project was Capital Asset Pricing Model (CAPM), used for pricing the returns of an asset, with
 many interesting connections to the modern portfolio theory.
 
